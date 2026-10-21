@@ -68,4 +68,4 @@ The LM386 drives the speaker. The 10 µF capacitor between pins 1 and 8 sets its
 - Comparing theory, simulation (LTspice) and real measurements
 
 ## Team
-Built together with Konstantinos Raptis as part of the NTUA Electronics Lab course.
+Built together with Konstantinos Raptis ([@kostas-raptis](https://github.com/kostas-raptis)) as part of the NTUA Electronics Lab course.
